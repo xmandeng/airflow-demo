@@ -5,7 +5,7 @@ This repository contains a demo Apache Airflow project configured with Docker Co
 ## Prerequisites
 
 - Docker and Docker Compose
-- Python 3.11
+- Python 3.11+
 - Git
 
 ## Getting Started with Poetry
