@@ -1,4 +1,4 @@
-# Airflow Demo Project
+# Airflow Demo
 
 This repository contains a demo Apache Airflow project configured with Docker Compose and Poetry for dependency management.
 
